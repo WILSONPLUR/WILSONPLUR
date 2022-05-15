@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WILSONPLUR
 - 👀 I’m interested in programming, work and watching the films)
-- 🌱 I’m currently learning GraphQL, Typescript, Javascript and React.js ecosystems
+- 🌱 I’m currently learning Javascript and React.js ecosystems
 - 📫 How to reach me: mail - yourshows12@gmail.com, telegram - https://t.me/WILSONPLUR 
 
 <!---
