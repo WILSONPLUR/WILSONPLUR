@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WILSONPLUR
-- 👀 I’m interesting in programming, work and watching the films)
-- 🌱 I’m currently learning Javascript and React.js ecosystems
+- 👀 I’m interesting in building ideas, collect Lego sets and watch movies
+- 🌱 I’m currently learning, practice my skills in React-Native/Flutter and Next.js 
 - 📫 How to reach me: mail - dmytro.shyian.dev@gmail.com, telegram - https://t.me/WILSONPLUR 
 
 <!---
